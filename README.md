@@ -34,7 +34,7 @@ This guide provides instructions for setting up and conducting autonomous synthe
 ### Initial Setup on HP Windows Control Computer
 
 1. **Launch Anaconda Powershell**:
-   - On the HP Windows Control Computer (LNC-168313), click on the `Anaconda Powershell Prompt (Anaconda3)` to open two separate terminal windows.
+   - On the HP Windows Control Computer (LNC-168313), click on the `Anaconda Powershell Prompt (Anaconda3)` to open two separate terminal windows
 
 2. **Navigate to Project Directory**:
    - In each terminal, navigate to the `Droplet_Controls_Update` folder using the command:
@@ -48,6 +48,14 @@ This guide provides instructions for setting up and conducting autonomous synthe
      ```
      ipython
      ```
+
+Alternative way. **USE jupyter notebook**:
+   - Launch Anaconda Powershell
+     ```
+     jupyter notebook
+     ```
+   - Open the "ipnyb" file
+
 
 ### Conducting UV Measurements
 
